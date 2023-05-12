@@ -1,0 +1,32 @@
+.dashboard_chart_wrapper {
+    width: 50%;
+    height: 100%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+.dashboard_chart {
+    width: 100%;
+}
+
+.dashboard_chart_mode_button_wrapper {
+    display: flex;
+    flex-direction: row;
+}
+
+.dashboard_chart_mode_button {
+    width: 80px;
+    height: 40px;
+    background-color: #acacac;
+    border-width: 0px;
+    margin-right: 5px;
+}
+
+.dashboard_chart_cur_mode_button {
+    width: 80px;
+    height: 40px;
+    background-color: #797979;
+    border-width: 0px;
+    margin-right: 5px;
+}
